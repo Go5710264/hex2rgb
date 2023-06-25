@@ -1,0 +1,24 @@
+.wrapper{
+  min-width: 100vw;
+  min-height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.weapper-input{
+  text-align: center;
+}
+
+.color-hex-name{
+  width: 100px;
+  padding: 5px 10px;
+  text-align: center;
+  letter-spacing: 2.5px;
+  border: none;
+}
+
+.color-hex-name:focus-visible {
+  outline: none;
+}
